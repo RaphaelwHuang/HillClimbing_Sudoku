@@ -1,0 +1,12 @@
+Name: Raphael Huang
+OSU email: huang.2339@osu.edu
+CSE3521 Lab 3
+
+How to test:
+	For this lab, my test plan is test one method after finished one, if it is successful, 
+	then write another method. After I finished the each part, I test my program by the given data.
+	I created the text case by decreasing the known number on board.
+		-file hw3-data2.txt (The number of given numbers is 5)
+		-file hw3-data3.txt (The number of given numbers is 4)
+
+
