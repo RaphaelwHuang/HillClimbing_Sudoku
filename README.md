@@ -1,6 +1,5 @@
 Name: Raphael Huang
 OSU email: huang.2339@osu.edu
-CSE3521 Lab 3
 
 How to compiles and run:
 	My lab3 is in an Archive file, you can import it by Eclipse.
